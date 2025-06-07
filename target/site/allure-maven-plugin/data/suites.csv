@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jun 07 19:04:56 MSK 2025","Sat Jun 07 19:04:57 MSK 2025","505","","testMock.UserTests","","testMock.UserTests","testCreateUser","Создание пользователя",""
+"passed","Sat Jun 07 19:04:57 MSK 2025","Sat Jun 07 19:04:57 MSK 2025","7","","testMock.UserTests","","testMock.UserTests","testUpdateUser","Обновление пользователя",""
+"passed","Sat Jun 07 19:04:57 MSK 2025","Sat Jun 07 19:04:57 MSK 2025","4","","testMock.UserTests","","testMock.UserTests","testDeleteUser","Удаление пользователя",""
+"passed","Sat Jun 07 19:04:57 MSK 2025","Sat Jun 07 19:04:57 MSK 2025","5","","testMock.UserTests","","testMock.UserTests","testCreateAndGetUser","Получение пользователя по юзернейм",""

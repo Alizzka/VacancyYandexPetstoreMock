@@ -1,0 +1,6 @@
+clientMock\UserClient.class
+testMock\helpers\ResponseMockHelper.class
+testMock\UserTests.class
+modelMock\User$UserBuilder.class
+modelMock\User.class
+testMock\helpers\UserTestHelper.class

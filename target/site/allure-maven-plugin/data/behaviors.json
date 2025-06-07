@@ -1,0 +1,93 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "User API Tests",
+    "children" : [ {
+      "name" : "POST /user",
+      "children" : [ {
+        "name" : "Создание пользователя",
+        "uid" : "96421fd02018cdf5",
+        "parentUid" : "0f2237e321781942627a8e4d02c6df04",
+        "status" : "passed",
+        "time" : {
+          "start" : 1749312296865,
+          "stop" : 1749312297370,
+          "duration" : 505
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0f2237e321781942627a8e4d02c6df04"
+    }, {
+      "name" : "GET /user/{username}",
+      "children" : [ {
+        "name" : "Получение пользователя по юзернейм",
+        "uid" : "f6a5ea4f93e0d969",
+        "parentUid" : "0141befe9ca01fbb4400ac71a469296c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1749312297418,
+          "stop" : 1749312297423,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0141befe9ca01fbb4400ac71a469296c"
+    }, {
+      "name" : "PUT /user/{username}",
+      "children" : [ {
+        "name" : "Обновление пользователя",
+        "uid" : "d6c1e293c7938b63",
+        "parentUid" : "ad5284b87242e3a03ad095297074d3ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1749312297428,
+          "stop" : 1749312297435,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad5284b87242e3a03ad095297074d3ba"
+    }, {
+      "name" : "DELETE /user/{username}",
+      "children" : [ {
+        "name" : "Удаление пользователя",
+        "uid" : "713d3dd2beab68f6",
+        "parentUid" : "437007d07128f501b72c41f6b40a6355",
+        "status" : "passed",
+        "time" : {
+          "start" : 1749312297440,
+          "stop" : 1749312297444,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "437007d07128f501b72c41f6b40a6355"
+    } ],
+    "uid" : "595e939e7225f47a4a0df73af2abfd5f"
+  } ]
+}

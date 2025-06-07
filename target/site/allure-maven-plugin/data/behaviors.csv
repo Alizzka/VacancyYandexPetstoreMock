@@ -1,0 +1,5 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"User API Tests","POST /user","","0","0","1","0","0"
+"User API Tests","PUT /user/{username}","","0","0","1","0","0"
+"User API Tests","DELETE /user/{username}","","0","0","1","0","0"
+"User API Tests","GET /user/{username}","","0","0","1","0","0"
